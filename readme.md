@@ -1,0 +1,1 @@
+This is a short resume that has my contact information and current skills I am familiar with as a Software Developer.
